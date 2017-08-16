@@ -1,0 +1,19 @@
+{txt}Cox Survival Model: Estimated Hazard Ratios for Race = Black
+{txt}{hline 44}
+{txt}                       _t              _t   
+{txt}{hline 44}
+{txt}Unconditio~d{res}        1.296**         1.029   {txt}
+            {res} {ralign 12:{txt:(}0.118{txt:)}}    {ralign 12:{txt:(}0.101{txt:)}}   {txt}
+{txt}{hline 44}
+{txt}{hline 44}
+{txt}{hline 44}
+{txt}Age/sex co~s{res}        1.329**         1.030   {txt}
+            {res} {ralign 12:{txt:(}0.122{txt:)}}    {ralign 12:{txt:(}0.101{txt:)}}   {txt}
+{txt}{hline 44}
+{txt}{hline 44}
+{txt}{hline 44}
+{txt}Age/sex an~s{res}        1.194           1.046   {txt}
+            {res} {ralign 12:{txt:(}0.122{txt:)}}    {ralign 12:{txt:(}0.119{txt:)}}   {txt}
+{txt}{hline 44}
+{txt}Exponentiated coefficients; Standard errors in parentheses
+{txt}* p<0.05, ** p<0.01, *** p<0.001
