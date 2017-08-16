@@ -1,4 +1,4 @@
-#Race disparity estimates
+# Race disparity estimates
 
 ## Author: Ben Berger
 ## Date created: 8-16-17
